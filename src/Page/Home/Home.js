@@ -3,7 +3,7 @@ import Header from './Header';
 
 const Home = () => {
     return (
-        <div>
+        <div className=''>
             <Header></Header>
             Home
         </div>
