@@ -1,8 +1,8 @@
 import React from "react";
-import img1 from "../../assets/banner/c1.png";
+import img4 from "../../assets/banner/c1.png";
 import img2 from "../../assets/banner/c2.png";
 import img3 from "../../assets/banner/c3.png";
-import img4 from "../../assets/banner/c4.png";
+import img1 from "../../assets/banner/c4.png";
 import BannerItem from "./BannerItem";
 import './Header.css'
 
@@ -30,7 +30,7 @@ const bannerData = [
         image: img4,
         prev: 3,
         id: 4,
-        next: 5
+        next: 1
     }
     // {
     //     image: img5,
