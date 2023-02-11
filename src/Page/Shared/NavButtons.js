@@ -26,7 +26,7 @@ const NavButtons = () => {
         <Link>Sell Bikes</Link>{" "}
       </li>
       <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
-        <Link>Appointment</Link>{" "}
+        <Link to='/appointment'>Appointment</Link>{" "}
       </li>
       <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
         <Link>News & Reviews</Link>{" "}

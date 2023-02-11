@@ -16,15 +16,15 @@ const BannerItem = ({ slide }) => {
           <p className="text-start lg:text-3xl text-lg mt-2 md:mt-8">
             Then, build your deal to fit your needs.
           </p>
-          <p className="w-1/2 text-start mt-4 md:text-sm">
+          <p className="w-1/2 text-start mt-4 md:text-sm hidden md:block">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut
             molestiae repudiandae recusandae quaerat 
           </p>
         </div>
       </div>
-      <div className="absolute flex gap-8 justify-start transform -translate-y-1/2 w-2/5 left-6 lg:top-3/4 md:top-[28rem] ">
-        <button className="flex items-center hover:px-10 duration-300 transform bg-gradient-to-bl from-green-300 via-green-700 to-cyan-600 hover:bg-transparent text-white px-3 rounded-md py-2 font-bold text-sm"><span className="flex gap-2">BUY BIKE <FaBiking className="h-4 w-5" /></span></button>
-        <button className="text-white px-3 py-3 text-sm hidden md:block bg-gradient-to-b from-cyan-900  via-slate-800 to-blue-300 hover:px-10 duration-300 transform font-bold rounded-md"> <span className="flex gap-2">BUY CAR<FaCarAlt className="h-5 w-5" /></span> </button> 
+      <div className="absolute flex gap-8 justify-start transform -translate-y-1/2 w-2/5 left-6 lg:top-3/4 md:top-[25rem] ">
+        <button className=" items-center hover:px-10 duration-300 transform bg-gradient-to-bl from-green-300 via-green-700 to-cyan-600 hover:bg-transparent text-white px-3 rounded-md py-2 font-bold text-xs hidden md:block"><span className="flex gap-2">BUY BIKE <FaBiking className="h-4 w-5" /></span></button>
+        <button className="text-white text-xs px-3 py-3  hidden md:block bg-gradient-to-b from-cyan-900  via-slate-800 to-blue-300 hover:px-10 duration-300 transform font-bold rounded-md"> <span className="flex gap-2">BUY CAR<FaCarAlt className="h-4 w-5" /></span> </button> 
       </div>
       <div className="absolute flex justify-end transform -translate-y-1/2 left-5 right-5 bottom-0">
         <a href={`#slide${prev}`} className="btn  btn-circle mr-5 bg-gradient-to-r  hover:bg-gradient-to-l from-gray-200 via-stone-500 to-emerald-700 border-0 transform duration-300">

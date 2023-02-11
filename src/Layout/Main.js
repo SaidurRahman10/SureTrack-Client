@@ -9,7 +9,7 @@ import NavButtons from '../Page/Shared/NavButtons';
 
 const Main = () => {
     return (
-        <div>
+        <div className=''>
             <div className='mx-10'>
           <Navbar />
             </div>
