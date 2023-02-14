@@ -1,0 +1,211 @@
+[
+  {
+    "_id": 1,
+    "name": "Change the engine oil",
+    "img":"https://i.ibb.co/RHXX5Rd/change-Oil-Engine.png",
+    "slots": [
+      "08.00 AM - 08.30 AM",
+      "08.30 AM - 09.00 AM",
+      "09.00 AM - 9.30 AM",
+      "09.30 AM - 10.00 AM",
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 AM",
+      "1.00 PM - 1.30 PM",
+      "1.30 PM - 2.00 PM",
+      "2.00 PM - 2.30 PM",
+      "2.30 PM - 3.00 PM",
+      "3.00 PM - 3.30 PM",
+      "3.30 PM - 4.00 PM",
+      "4.00 PM - 4.30 PM",
+      "4.30 PM - 5.00 PM"
+    ]
+  },
+  {
+    "_id": 2,
+    "name": "Oil filter replacement",
+    "img": "https://i.ibb.co/J55SDjX/Oilfilter-Replacement.png" ,
+    "slots": [
+      "08.00 AM - 08.30 AM",
+      "08.30 AM - 09.00 AM",
+      "09.00 AM - 9.30 AM",
+      "09.30 AM - 10.00 AM",
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 AM",
+      "1.00 PM - 1.30 PM",
+      "1.30 PM - 2.00 PM",
+      "2.00 PM - 2.30 PM",
+      "2.30 PM - 3.00 PM",
+      "3.00 PM - 3.30 PM",
+      "3.30 PM - 4.00 PM",
+      "4.00 PM - 4.30 PM",
+      "4.30 PM - 5.00 PM"
+    ]
+  },
+  {
+    "_id": 3,
+    "name": "Check Brake discs",
+    "img":"https://i.ibb.co/4mZqTGs/Check-Brake-discs.png" ,
+    "slots": [
+      "08.00 AM - 08.30 AM",
+      "08.30 AM - 09.00 AM",
+      "09.00 AM - 9.30 AM",
+      "09.30 AM - 10.00 AM",
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 AM",
+      "1.00 PM - 1.30 PM",
+      "1.30 PM - 2.00 PM",
+      "2.00 PM - 2.30 PM",
+      "2.30 PM - 3.00 PM",
+      "3.00 PM - 3.30 PM",
+      "3.30 PM - 4.00 PM",
+      "4.00 PM - 4.30 PM",
+      "4.30 PM - 5.00 PM"
+    ]
+  },
+  {
+    "_id": 4,
+    "name": "Emergency Brake",
+    "img":"https://i.ibb.co/93XgTHC/Emergency-Brake.png" ,
+    "slots": [
+      "08.00 AM - 08.30 AM",
+      "08.30 AM - 09.00 AM",
+      "09.00 AM - 9.30 AM",
+      "09.30 AM - 10.00 AM",
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 AM",
+      "1.00 PM - 1.30 PM",
+      "1.30 PM - 2.00 PM",
+      "2.00 PM - 2.30 PM",
+      "2.30 PM - 3.00 PM",
+      "3.00 PM - 3.30 PM",
+      "3.30 PM - 4.00 PM",
+      "4.00 PM - 4.30 PM",
+      "4.30 PM - 5.00 PM"
+    ]
+  },
+  {
+    "_id":5,
+    "name": "Verify Coolant Hoses",
+    "img":"https://i.ibb.co/9NBwWNN/Verify-Coolant-Hoses.png" ,
+    "slots": [
+      "08.00 AM - 08.30 AM",
+      "08.30 AM - 09.00 AM",
+      "09.00 AM - 9.30 AM",
+      "09.30 AM - 10.00 AM",
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 AM",
+      "1.00 PM - 1.30 PM",
+      "1.30 PM - 2.00 PM",
+      "2.00 PM - 2.30 PM",
+      "2.30 PM - 3.00 PM",
+      "3.00 PM - 3.30 PM",
+      "3.30 PM - 4.00 PM",
+      "4.00 PM - 4.30 PM",
+      "4.30 PM - 5.00 PM"
+    ]
+  },
+  {
+    "_id": 6,
+    "name": "Check tire condition",
+    "img":"https://i.ibb.co/2K2NZhC/Check-tire-condition.png" ,
+    "slots": [
+      "08.00 AM - 08.30 AM",
+      "08.30 AM - 09.00 AM",
+      "09.00 AM - 9.30 AM",
+      "09.30 AM - 10.00 AM",
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 AM",
+      "1.00 PM - 1.30 PM",
+      "1.30 PM - 2.00 PM",
+      "2.00 PM - 2.30 PM",
+      "2.30 PM - 3.00 PM",
+      "3.00 PM - 3.30 PM",
+      "3.30 PM - 4.00 PM",
+      "4.00 PM - 4.30 PM",
+      "4.30 PM - 5.00 PM"
+    ]
+  },
+  {
+    "_id": 7,
+    "name": "Check clutch fluid",
+    "img":"https://i.ibb.co/ZYwLMs1/Check-clutch-fluid.png" ,
+    "slots": [
+      "08.00 AM - 08.30 AM",
+      "08.30 AM - 09.00 AM",
+      "09.00 AM - 9.30 AM",
+      "09.30 AM - 10.00 AM",
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 AM",
+      "1.00 PM - 1.30 PM",
+      "1.30 PM - 2.00 PM",
+      "2.00 PM - 2.30 PM",
+      "2.30 PM - 3.00 PM",
+      "3.00 PM - 3.30 PM",
+      "3.30 PM - 4.00 PM",
+      "4.00 PM - 4.30 PM",
+      "4.30 PM - 5.00 PM"
+    ]
+  },
+  {
+    "_id": 8,
+    "name": "Check Power steering",
+    "img":"https://i.ibb.co/0FR1WYY/Power-Steering.png" ,
+    "slots": [
+      "08.00 AM - 08.30 AM",
+      "08.30 AM - 09.00 AM",
+      "09.00 AM - 9.30 AM",
+      "09.30 AM - 10.00 AM",
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 AM",
+      "1.00 PM - 1.30 PM",
+      "1.30 PM - 2.00 PM",
+      "2.00 PM - 2.30 PM",
+      "2.30 PM - 3.00 PM",
+      "3.00 PM - 3.30 PM",
+      "3.30 PM - 4.00 PM",
+      "4.00 PM - 4.30 PM",
+      "4.30 PM - 5.00 PM"
+    ]
+  },
+  {
+    "_id": 9,
+    "name": "Fuel filter Replacement ",
+    "img":"https://i.ibb.co/SPjVLGx/Fuel-filter-Replacement.png" ,
+
+    
+    "slots": [
+      "08.00 AM - 08.30 AM",
+      "08.30 AM - 09.00 AM",
+      "09.00 AM - 9.30 AM",
+      "09.30 AM - 10.00 AM",
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 AM",
+      "1.00 PM - 1.30 PM",
+      "1.30 PM - 2.00 PM",
+      "2.00 PM - 2.30 PM",
+      "2.30 PM - 3.00 PM",
+      "3.00 PM - 3.30 PM",
+      "3.30 PM - 4.00 PM",
+      "4.00 PM - 4.30 PM",
+      "4.30 PM - 5.00 PM"
+    ]
+  }
+]
