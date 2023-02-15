@@ -8,7 +8,9 @@ const Navbar = () => {
             <div className="navbar bg-base-100 ">
   <div className="navbar-start">
    
+              <Link to='/'>
    <img className='w-auto ' src={logo} alt="" />
+              </Link>
   </div>
   <div className="navbar-center hidden lg:flex">
   <div className="form-control">
