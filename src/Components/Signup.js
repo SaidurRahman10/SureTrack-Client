@@ -13,7 +13,7 @@ const Signup = () => {
   const location = useLocation();
   const navigate = useNavigate();
 
-  const from = location.state?.from?.pathname || '/'
+  const from = location.state?.from?.pathname || "/";
 
 
 
@@ -27,7 +27,7 @@ const Signup = () => {
       .then((result) => {
         const user = result.user;
         console.log(user);
-        navigate(from, {replace:true})
+        navigate(from, { replace: true });
         toast.success("User Created  Successfully");
 
         const userInfo = {

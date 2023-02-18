@@ -52,7 +52,7 @@ const Login = () => {
 
   return (
     <div className="">
-      <div className="grid grid-cols-1 md:grid-cols-2 w-4/5 mx-auto  gap-28 mb-10">
+      <div className="grid grid-cols-1 md:grid-cols-2 w-4/5 mx-auto  gap-28 pb-10">
         <div className="md:hidden flex justify-center">
           <img className="w-64 h-72" src={login1} alt="" />
         </div>
@@ -89,7 +89,7 @@ const Login = () => {
                 />
               </div>
               <a href="/">
-                <p className="text-xs mt-2 text-[#22183B] font-bold">
+                <p className="text-xs mt-2  font-bold">
                   Forget Password !!
                 </p>
               </a>
@@ -97,7 +97,7 @@ const Login = () => {
               
               <input
                 type="submit"
-                className="text-lg hover:bg-transparent border hover:border-indigo-900 hover:text-[#22183b] bg-[#22183B] text-white w-full mt-5 rounded-md py-1"
+                className="text-lg hover:bg-transparent hover:border hover:border-indigo-900 hover:text-indigo-900 bg-[#22183B] text-white w-full mt-5 rounded-md py-1"
               />
               <div>
                 {loginError && <p className="text-red-500 text-sm">{loginError}</p>}
@@ -115,7 +115,7 @@ const Login = () => {
 
               <div className="divider">OR</div>
 
-              <button onClick={handelGoogleSignIn} className="btn-outline w-full py-2 border border-[#22183B] rounded-md font-bold">
+              <button onClick={handelGoogleSignIn} className=" w-full py-2 border hover:bg-black hover:text-white border-slate-500  rounded-md font-bold">
                 Sign in with Google
               </button>
             </form>

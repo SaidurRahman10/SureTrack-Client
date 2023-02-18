@@ -4,34 +4,34 @@ import { Link } from "react-router-dom";
 const NavButtons = () => {
   const menuItems = (
     <>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase  hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase  hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
         <Link>Cars</Link>{" "}
       </li>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase hover:border-t-2 border-blue-400 pt-1 hover:pt-0 ">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase hover:border-t-2 border-blue-400 pt-1 hover:pt-0 ">
         <Link>Bikes</Link>{" "}
       </li>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
         <Link>Scooters</Link>{" "}
       </li>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
         <Link>Electric Zone</Link>{" "}
       </li>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase  md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase  md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
         <Link>Used Bikes</Link>{" "}
       </li>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
         <Link>Used Cars</Link>{" "}
       </li>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
         <Link>Sell Bikes</Link>{" "}
       </li>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
         <Link to='/appointment'>Appointment</Link>{" "}
       </li>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase md:hidden lg:block hover:border-t-2 border-blue-400 pt-1 hover:pt-0">
         <Link>News & Reviews</Link>{" "}
       </li>
-      <li className="my-1 text-xs text-gray-700 font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase hover:border-t-2 border-blue-400 pt-1 hover:pt-0 ">
+      <li className="my-1 text-xs  font-semibold md:mx-4 md:my-0 hover:text-indigo-500 px-1 uppercase hover:border-t-2 border-blue-400 pt-1 hover:pt-0 ">
         <Link>More</Link>{" "}
       </li>
     
@@ -40,7 +40,7 @@ const NavButtons = () => {
 
   return (
     <div>
-      <div className="navbar bg-base-100">
+      <div className="navbar ">
         <div className="">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -74,7 +74,7 @@ const NavButtons = () => {
             <div className="flex flex-col md:flex-row md:mx-6">{menuItems}</div>
             <div className="flex justify-center md:block">
               <a
-                className="relative text-gray-700 hover:text-gray-600"
+                className="relative  hover:text-gray-600"
                 href="#"
               >
                 <svg

@@ -1,0 +1,32 @@
+.link-underline {
+  border-bottom-width: 0;
+  background-size: 0 3px;
+  background-position: 0 70%;
+  background-repeat: no-repeat;
+  transition: background-size 0.5s ease-in-out;
+}
+
+.link-underline-black {
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(rgb(255, 133, 34), rgb(255, 133, 34));
+}
+
+.link-underline:hover {
+  background-size: 50% 3px;
+  background-position: 0 100%;
+}
+
+.Dark {
+  background: radial-gradient(
+    circle at 24.1% 68.8%,
+    rgb(50, 50, 50) 0%,
+    rgb(0, 0, 0) 99.4%
+  );
+  color: white;
+}
+
+.Light {
+  background: white;
+
+  color: black;
+}
