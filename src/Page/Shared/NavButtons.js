@@ -61,7 +61,7 @@ const NavButtons = () => {
             </label>
             <ul
               tabIndex={0}
-              className=" menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box flex flex-wrap"
+              className=" menu-compact dropdown-content mt-3 p-2 shadow  rounded-box flex flex-wrap"
             >
               <div className="flex flex-col md:flex-row md:mx-6">
                 {menuItems}

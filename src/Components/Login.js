@@ -61,7 +61,7 @@ const Login = () => {
             <h2 className="text-2xl flex font-bold tracking-wider ">
               Welcome back
             </h2>
-            <p className="tracking-wider text-sm text-slate-600">
+            <p className="tracking-wider text-sm text-slate-600 ">
               Welcome back! Please enter your details
             </p>
 
