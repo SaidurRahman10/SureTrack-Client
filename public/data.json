@@ -1,0 +1,405 @@
+[
+    {
+      "name": "Bike",
+      "allBike": [
+        {
+          "id": 1,
+          "name":"bikeInSpotLight",
+        "mostPopular":[
+            {
+                "name":"Kawasaki Ninja H2",
+                "img":"",
+                "price":"Rs34.99 - 79.90 Lakh*"
+            },
+            {
+                "name":"Hero Splendor Plus",
+                "img":"",
+                "price":"Rs72,076 - 76,346*"
+            },
+            {
+                "name":"TVS Apache RTR 160",
+                "img":"",
+                "price":"Rs1.18 - 1.25 Lakh*"
+            },
+            {
+                "name":"KTM 390 Duke",
+                "img":"",
+                "price":"Rs2.96 Lakh*"
+            }
+        ],
+        "sportsBike":[
+            {
+                "name":"Yamaha MT 15 V2",
+                "img":"",
+                "price":"Rs1.68 Lakh*"
+            },
+            {
+                "name":"TVS Apache RTR 160",
+                "img":"",
+                "price":"Rs1.18 - 1.25 Lakh*"
+            },
+            {
+                "name":"Bajaj Pulsar NS200",
+                "img":"",
+                "price":"Rs1.41 Lakh*"
+            },
+            {
+                "name":"Kawasaki Ninja ZX-10R",
+                "img":"",
+                "price":"Rs34.99 - 79.90 Lakh*"
+            },
+            {
+                "name":"2022 KTM RC 390",
+                "img":"",
+                "price":"Rs3.14 - 3.16 Lakh*"
+            }
+        ],
+        "bestMileageBike":[
+            {
+                "name":"Hero Splendor Plus",
+                "img":"",
+                "price":"Rs72,076 - 76,346*"
+            },
+            {
+                "name":"Yamaha RayZR 125 Fi Hybrid",
+                "img":"",
+                "price":"Rs81,230 - 91,030*"
+            },
+            {
+                "name":"TVS Sport",
+                "img":"",
+                "price":"Rs63,990 - 68,093*"
+            },
+            {
+                "name":"Bajaj CT 110X",
+                "img":"",
+                "price":"Rs59,104 - 67,322*"
+            },
+            {
+                "name":"AMO Electric Jaunty-3W",
+                "img":"",
+                "price":"Rs78,819*"
+            }
+        ],
+        "cruiserBike":[
+            {
+                "name":"Royal Enfield Classic 350",
+                "img":"",
+                "price":"Rs1.90 - 2.21 Lakh*"
+            },
+            {
+                "name":"TVS Ronin",
+                "img":"",
+                "price":"Rs1.49 - 1.71 Lakh*"
+            },
+            {
+                "name":"Honda H'ness CB350",
+                "img":"",
+                "price":"Rs2 - 2.08 Lakh*"
+            },
+            {
+                "name":"Yezdi Roadster",
+                "img":"",
+                "price":"Rs2.01 - 2.09 Lakh*"
+            },
+            {
+                "name":"Jawa 42 Bobber",
+                "img":"",
+                "price":"Rs2.09 Lakh*"
+            }
+        ],
+        "computerBikes":[
+            {
+                "name":"Hero Splendor Plus",
+                "img":"",
+                "price":"Rs72,076 - 76,346*"
+            },
+            {
+                "name":"Honda SP 125",
+                "img":"",
+                "price":"Rs84,204 - 88,204*"
+            },
+            {
+                "name":"Bajaj Pulsar 150",
+                "img":"",
+                "price":"Rs1.17 - 1.41 Lakh*"
+            },
+            {
+                "name":"TVS Radeon",
+                "img":"",
+                "price":"Rs59,925 - 78,414*"
+            },
+            {
+                "name":"Keeway SR125",
+                "img":"",
+                "price":"Rs1.19 Lakh*"
+            }
+        ],
+        "offRoadBikes":[
+            {
+                "name":"KTM 390 Adventure",
+                "img":"",
+                "price":"Rs3.35 Lakh*"
+            },
+            {
+                "name":"Yezdi Adventure",
+                "img":"",
+                "price":" Rs2.13 - 2.15 Lakh*"
+            },
+            {
+                "name":"Triumph Tiger 900",
+                "img":"",
+                "price":"Rs13.70 - 15.50 Lakh*"
+            },
+            {
+                "name":"Honda CB500X",
+                "img":"",
+                "price":"Rs5.80 Lakh*"
+            }
+            
+        ]
+        },
+        {
+          "id": 2,
+          "name": "PopularBrands",
+            "Bike":[
+                {   "brandName":"TVS",
+                    "brand":"img",
+                     "brandBike":[
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        }
+                     ]
+
+                },
+                {   "brandName":"Hero",
+                    "brand":"img",
+                     "brandBike":[
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        }
+                     ]
+
+                },
+                {   "brandName":"Honda",
+                    "brand":"img",
+                     "brandBike":[
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        }
+                     ]
+
+                },
+                {   "brandName":"Bajaj",
+                    "brand":"img",
+                     "brandBike":[
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        }
+                     ]
+
+                },
+                {   "brandName":"Royal Enfield",
+                    "brand":"img",
+                     "brandBike":[
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        }
+                     ]
+
+                },
+                {   "brandName":"Yamaha",
+                    "brand":"img",
+                     "brandBike":[
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        }
+                     ]
+
+                },
+                {   "brandName":"Suzuki",
+                    "brand":"img",
+                     "brandBike":[
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        },
+                        {
+                            "name":"Kawasaki Ninja H2",
+                            "img":"",
+                            "price":"Rs34.99 - 79.90 Lakh*"
+                        }
+                     ]
+
+                }
+
+            ]
+        },
+        {
+          "id": 3,
+          "name": "Latest Bikgie",
+          "latestAllBike":[
+            {
+                "name":"Kawasaki Ninja H2",
+                "img":"",
+                "price":"Rs34.99 - 79.90 Lakh*"
+            },
+            {
+                "name":"Kawasaki Ninja H2",
+                "img":"",
+                "price":"Rs34.99 - 79.90 Lakh*"
+            },
+            {
+                "name":"Kawasaki Ninja H2",
+                "img":"",
+                "price":"Rs34.99 - 79.90 Lakh*"
+            },
+            {
+                "name":"Kawasaki Ninja H2",
+                "img":"",
+                "price":"Rs34.99 - 79.90 Lakh*"
+            },
+            {
+                "name":"Kawasaki Ninja H2",
+                "img":"",
+                "price":"Rs34.99 - 79.90 Lakh*"
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "name": "Car",
+    
+      "allCar": [
+        {
+          "id": 1,
+          "name": "BMW X3 SPackage 2011",
+          "img": "https://bhalogari-static.s3.amazonaws.com/media/X3_1638090899_1659365.jpg",
+          "location": "Feni Sadar, Feni",
+          "price": 695000,
+          "resalePrice": 4350000,
+          "modelYear": 2011,
+          "usedTime": 10,
+          "category": "Used",
+          "mileage": 52000,
+          "type": "Good",
+          "mobile": "+88017815666",
+          "description": "The owner of this car bought this song as a hobby and drives it as a hobby and it is very nice and Unique.New model things are added in this song and the speed of this car is very great Iran can move very fast per second.",
+          "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+        },
+        {
+          "id": 2,
+          "name": "BMW 5 Series GPKG 2016",
+          "img": "https://bhalogari-static.s3.amazonaws.com/media/5_Series_1643609851_089828.webp",
+          "location": "Feni Sadar, Feni",
+          "price": 10695000,
+          "resalePrice": 8350000,
+          "modelYear": 2016,
+          "usedTime": 4,
+          "category": "Recondition",
+          "mileage": 30000,
+          "type": "fair",
+          "mobile": "+880546516565",
+          "description": "This car is very good and it is very well used and this car is driven in very good roads and the roads are very nice and very unique so I can say that this card will be very good if you Buy",
+          "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+        },
+        {
+          "id": 3,
+          "name": "BMW 5 Series 2005",
+          "img": "https://bhalogari-static.s3.amazonaws.com/media/5_Series_1644298344_5293128.webp",
+          "location": "Feni Sadar, Feni",
+          "price": 555000,
+          "resalePrice": 2350000,
+          "modelYear": 2005,
+          "usedTime": 15,
+          "category": "Used",
+          "mileage": 25000,
+          "type": "Excellent",
+          "mobile": "+88017815666",
+          "description": "This car has been meticulously sourced and very nicely reconditioned from its showroom perfectly with various finishes throughout the song and then sport driven.",
+          "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+        }
+      ]
+    }
+  ]
+  

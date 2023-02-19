@@ -37,11 +37,11 @@ const BookingModal = ({selectedService, setSelectedService , selectedDate}) => {
   <div className="modal-box relative">
     <label htmlFor="booking-modal" className="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
     <img className='w-auto h-28 mx-auto' src={carArt} alt="" />
-    <h3 className="text-lg font-bold text-center uppercase">{serviceName}</h3>
+    <h3 className="text-lg font-bold text-center uppercase text-black">{serviceName}</h3>
 
 
     <form onSubmit={handelBooking} className='grid grid-cols-1 gap-4 mt-4'>
-    <input type="text" value={date} placeholder="Type here" className="input input-bordered w-full " disabled />
+    <input type="text" value={date} placeholder="Type here" className="input input-bordered w-full font-bold " disabled />
     <select name='slot' className="select select-bordered w-full ">
   { slots &&
     slots.map((slot, i) => 
